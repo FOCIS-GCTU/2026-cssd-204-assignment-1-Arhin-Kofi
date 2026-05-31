@@ -1,6 +1,6 @@
 # File: initials.py.
 # Description: Print out my initials in stylized large block letters.
-# Assigment Number 1.
+# Assigment Number 2.
 #
 # Name: Arhin Henry Kofi.
 # Studen ID: 2425401391.
